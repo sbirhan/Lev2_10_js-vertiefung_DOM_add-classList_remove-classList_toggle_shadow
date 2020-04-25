@@ -16,11 +16,5 @@ function styling(className){
         document.getElementById("greetingBox").classList.add(secondClass);
         firstClass = secondClass;
     }
-
-    console.log(i);
-    console.log(j);
-    console.log(firstClass);
-    console.log(secondClass);
-
 }
 
